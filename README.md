@@ -2,7 +2,7 @@
 A [Markov chain](https://en.wikipedia.org/wiki/Markov_chain) is "a stochastic model describing a sequence of possible events in which the probability of each event depends only on the state attained in the previous event."
 
 This program uses text files to calculate the probability of which character will follow.The Markov chain model is then used to predict strings of characters. 
-This should create pronouncable words and in some cases even phrases!
+This should create pronounceable words and in some cases even phrases!
 
 
 ## Example
